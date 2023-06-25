@@ -40,3 +40,4 @@ build/
 
 ### Others ###
 /src/main/webapp/test.html
+/src/main/java/pl/coderslab/servlet/TestServlet.java
