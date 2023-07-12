@@ -40,4 +40,5 @@ build/
 
 ### Others ###
 /src/main/webapp/test.html
-/src/main/java/pl/coderslab/servlet/TestServlet.java
+/src/main/java/pl/coderslab/test/
+/src/main/webapp/WEB-INF/test/
