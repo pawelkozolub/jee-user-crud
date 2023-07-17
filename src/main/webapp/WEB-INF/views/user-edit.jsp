@@ -20,12 +20,12 @@
                 <div class="form-group">
                     <label for="userName">Username</label>
                     <input name="userName" type="text" class="form-control"
-                           id="userName" placeholder="Username" value=${user.username}>
+                           id="userName" placeholder="Username" value="${user.username}">
                 </div>
                 <div class="form-group">
                     <label for="userEmail">Email</label>
                     <input name="userEmail" type="email" class="form-control"
-                           id="userEmail" placeholder="Email address" value=${user.email}>
+                           id="userEmail" placeholder="Email address" value="${user.email}">
                 </div>
                 <div class="form-group">
                     <label for="userPassword">Password</label>
