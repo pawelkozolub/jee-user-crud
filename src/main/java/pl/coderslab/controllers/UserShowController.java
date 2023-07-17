@@ -1,7 +1,7 @@
 package pl.coderslab.controllers;
 
-import pl.coderslab.entity.User;
-import pl.coderslab.entity.UserDao;
+import pl.coderslab.domain.User;
+import pl.coderslab.domain.UserDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
