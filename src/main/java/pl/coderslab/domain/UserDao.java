@@ -1,4 +1,4 @@
-package pl.coderslab.entity;
+package pl.coderslab.domain;
 
 import org.mindrot.jbcrypt.BCrypt;
 import pl.coderslab.utils.DbUtil;
