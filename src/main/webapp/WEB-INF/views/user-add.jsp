@@ -16,7 +16,7 @@
         </div>
 
         <div class="card-body">
-            <form method="post">
+            <form action="/user/add" method="post">
                 <div class="form-group">
                     <label for="userName">Username</label>
                     <input name="userName" type="text" class="form-control" id="userName" placeholder="Username">
